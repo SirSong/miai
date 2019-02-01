@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/counter/main",
+    "pages/makeStepOne/main",
+    "pages/makeStepTwo/main"
+  ],
+  "window": {
+    "backgroundColor": "#e0ebf5",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#064c79",
+    "navigationBarTitleText": "Miai",
+    "navigationBarTextStyle": "white"
+  }
+}
